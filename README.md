@@ -5,7 +5,7 @@ Oblig1.oslomet
 Denne oppgaven er en innlevering i Algoritmer og Datastrukturer. 
 Oppgaven er levert av følgende studenter:
 * Farhan Alegal, S341869, s341869@oslomet.no
-* Hogir Ali, S344097, s344097@oslomet.no
+* Hogir Ali, S344094, s344094@oslomet.no
 
 # Arbeidsfordeling
 
